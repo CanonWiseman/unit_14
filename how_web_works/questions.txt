@@ -1,0 +1,9 @@
+1. HTTP is the protocol that connects the users side of the internet to the servers that hosts it. HTTP allows the user to make requests and fetch data from servers.
+
+2. A URL is the address that the user will search up in order to find the site that they need. The URL is what allows the server to give the user the correct websites to display.
+
+3. A DNS is the domain name structure and it is like the phonebook of the internet. The DNS connects the  user readable URL to the computer readable IP address.
+
+4. A query string is a string that is passed into a URL when the user inputs a submission form like a search item and this allows the database to pull up the correct results.
+
+5.
