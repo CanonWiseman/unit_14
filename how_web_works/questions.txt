@@ -6,4 +6,22 @@
 
 4. A query string is a string that is passed into a URL when the user inputs a submission form like a search item and this allows the database to pull up the correct results.
 
-5.
+5. two HTTP verbs are GET AND POST. Both are similar with one major difference. GET is used when the user is not going to manipulate the database at all ie just viewing the page and POST is used when the database data is going to be manipulated ie when the user submits a form to be placed in the database.
+
+6. An HTTP request is the user going onto a web page and the 'asking' the server to give the files to their computer.
+
+7. An HTTP response is the server actually giving those files back to the users computer.
+
+8. An HTTP header is meta data about the site being served to the computer. An example is the header content-language. This will tell the users computer what language the site needs to be served in.
+
+9. The processes that happen when the user types a url into the browser is.
+    The computer will find the correct IP associated with the URL
+    
+    The computer will send a request to the server that the requested site is hosted on
+
+    The server will respond with the data in the site.
+
+    The data will be parsed through and translated back into readable HTML and JS etc by the computer.
+
+    The users computer will render the data of the site in the browser.
+
